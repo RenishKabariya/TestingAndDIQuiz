@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_and_DI_Quiz", "Testing_and_DI_Quiz\Testing_and_DI_Quiz.csproj", "{39B3A747-B1B2-4267-9CDD-36C432BA6D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizTesting", "QuizTesting\QuizTesting.csproj", "{156712DA-86EC-4B35-885D-D2FECBD30CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B3A747-B1B2-4267-9CDD-36C432BA6D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B3A747-B1B2-4267-9CDD-36C432BA6D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B3A747-B1B2-4267-9CDD-36C432BA6D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B3A747-B1B2-4267-9CDD-36C432BA6D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156712DA-86EC-4B35-885D-D2FECBD30CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156712DA-86EC-4B35-885D-D2FECBD30CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156712DA-86EC-4B35-885D-D2FECBD30CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156712DA-86EC-4B35-885D-D2FECBD30CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBAA917-9BDA-4F1D-988C-089DB78E2289}
+	EndGlobalSection
+EndGlobal
